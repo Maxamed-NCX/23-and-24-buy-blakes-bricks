@@ -74,7 +74,7 @@ This application is covered by the MIT license.
 
 ## Questions
 
-❓❓❓ Contact me<br />
+Contact<br />
 <br />
 
 - [Blake Smethers](https://github.com/smethersblake)
