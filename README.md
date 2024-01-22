@@ -53,7 +53,7 @@ then HTML profile will be generated! <br>
 
 
 ## Screenshot
-<img width="400" alt=" Note3" src="[https://raw.githubusercontent.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/main/BBB.png](https://raw.githubusercontent.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/main/BBB.png)">
+<img width="400" alt=" Site" src="[https://raw.githubusercontent.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/main/BBB.png]">
 ## Deployed Application
 http://www.buyblakesbricks.com/
 
