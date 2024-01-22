@@ -54,7 +54,9 @@ then HTML profile will be generated! <br>
 
 ## Screenshot
 <img width="400" alt=" BBB" src="https://raw.githubusercontent.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/main/BBB.png">
-## [Deployed Application](http://www.buyblakesbricks.com/)
+## Site
+[Deployed-Application](http://www.buyblakesbricks.com/)
+
 
 
 
