@@ -53,10 +53,11 @@ then HTML profile will be generated! <br>
 
 
 ## Screenshot
-![full site screen print](/client/src/pages/assets/buyblakesbricks.png)
+![full site screen print](https://github.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/tree/main/buy-blakes-bricks/client/src/pages/assets/buyblakesbricks.png)
 ## Deployed Application
 http://www.buyblakesbricks.com/
 
+https://github.com/Maxamed-NCX/23-and-24-buy-blakes-bricks/tree/main/buy-blakes-bricks/client
 
 ## License
 
