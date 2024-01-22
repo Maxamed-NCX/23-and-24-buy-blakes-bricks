@@ -53,7 +53,7 @@ then HTML profile will be generated! <br>
 
 
 ## Screenshot
-![full site screen print](./client/src/pages/assets/buyblakesbricks.png)
+![full site screen print](/client/src/pages/assets/buyblakesbricks.png)
 ## Deployed Application
 http://www.buyblakesbricks.com/
 
