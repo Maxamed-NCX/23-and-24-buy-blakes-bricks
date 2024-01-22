@@ -84,7 +84,5 @@ This application is covered by the MIT license.
 - [Maxamed-Noor](https://github.com/Maxamed-NCX)
 - 
 <br />
-✉️ Email me with any questions: mcnoor@gmail.com<br /><br />
 
-⭐ This README was generated with ❤️ by MCX ⭐ <br> using https://github.com/Mcnoor/Challenge-Module9-BC
-  
+ 
