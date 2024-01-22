@@ -82,7 +82,7 @@ This application is covered by the MIT license.
 - [Christopher Langner](https://github.com/rehpotsirhc21)
 - [SnowLune Luna](https://github.com/SnowLune)
 - [Maxamed-Noor](https://github.com/Maxamed-NCX)
-- 
+
 <br />
 
  
